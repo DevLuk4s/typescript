@@ -9,6 +9,6 @@ let valores = [11, 7, 0, 4];
 cursos.push("Next.Js");
 valores.push(10);
 
-console.log(vteste);
+// console.log(vteste);
 console.log(cursos);
 console.log(valores);
