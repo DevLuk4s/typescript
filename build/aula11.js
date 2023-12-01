@@ -1,0 +1,10 @@
+"use strict";
+let svalor;
+let uvalor;
+let vvalor;
+vvalor = 10;
+svalor = vvalor;
+uvalor = vvalor;
+console.log(svalor);
+console.log(uvalor);
+console.log(vvalor);
